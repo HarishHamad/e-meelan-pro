@@ -114,7 +114,7 @@ export default function Contact() {
                     
                     
                     <div class="form-group col-md-6">
-                      <label for="name">reaquired this field</label>
+                      <label for="name">Email</label>
                       <input
                         type="email"
                       

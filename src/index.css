@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#header.header-scrolled,
+#header.header-inner-pages {
+  background: rgba(40, 58, 90, 0.9);
+}
